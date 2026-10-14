@@ -1,0 +1,307 @@
+title,year,genre,price
+The Witcher 3: Wild Hunt,2015,RPG,599
+The Witcher 2: Assassins of Kings,2011,RPG,399
+Cyberpunk 2077,2020,RPG,1999
+Elden Ring,2022,RPG,3499
+Baldur's Gate 3,2023,RPG,2999
+Dark Souls III,2016,RPG,1499
+Dark Souls II,2014,RPG,1299
+Demon's Souls,2020,RPG,3999
+Bloodborne,2015,RPG,2499
+Sekiro: Shadows Die Twice,2019,RPG,2499
+The Elder Scrolls V: Skyrim,2011,RPG,499
+The Elder Scrolls IV: Oblivion,2006,RPG,599
+The Elder Scrolls II: Daggerfall,1996,RPG,499
+Fallout 4,2015,RPG,999
+Fallout: New Vegas,2010,RPG,799
+Fallout 3,2008,RPG,799
+Diablo,1996,RPG,499
+Dragon Age: Origins,2009,RPG,699
+Dragon Age: Inquisition,2014,RPG,899
+Mass Effect Legendary Edition,2021,RPG,2499
+Knights of the Old Republic,2003,RPG,599
+Pathfinder: Wrath of the Righteous,2021,RPG,1499
+Divinity: Original Sin 2,2017,RPG,1199
+Pillars of Eternity,2015,RPG,899
+Disco Elysium,2019,RPG,799
+Deus Ex: Human Revolution,2011,RPG,699
+The Outer Worlds,2019,RPG,1299
+Kingdom Come: Deliverance,2018,RPG,999
+Kingdom Come: Deliverance II,2025,RPG,2999
+Monster Hunter: World,2018,RPG,1299
+Final Fantasy VII Remake,2020,RPG,2499
+Final Fantasy XVI,2023,RPG,3999
+Persona 5 Royal,2020,RPG,2499
+Yakuza 0,2016,RPG,999
+Like a Dragon: Infinite Wealth,2024,RPG,2999
+Tales of Arise,2021,RPG,2499
+Starfield,2023,RPG,3499
+Diablo IV,2023,RPG,2499
+Diablo II: Resurrected,2021,RPG,1499
+Path of Exile,2013,RPG,0
+Grim Dawn,2016,RPG,899
+Wasteland 3,2020,RPG,1299
+Metaphor: ReFantazio,2024,RPG,2999
+Counter-Strike 2,2023,Шутер,0
+Counter-Strike: Global Offensive,2012,Шутер,0
+Half-Life 2,2004,Шутер,399
+Half-Life,1998,Шутер,399
+Half-Life: Alyx,2020,Шутер,1499
+DOOM,1993,Шутер,399
+Doom Eternal,2020,Шутер,1499
+DOOM,2016,Шутер,1299
+Quake,1996,Шутер,399
+Apex Legends,2019,Шутер,0
+Overwatch 2,2022,Шутер,0
+Call of Duty: Modern Warfare II,2022,Шутер,3499
+Call of Duty: Black Ops Cold War,2020,Шутер,2999
+Call of Duty 4: Modern Warfare,2007,Шутер,1299
+Battlefield 1,2016,Шутер,1499
+Battlefield V,2018,Шутер,1499
+Battlefield 2042,2021,Шутер,2999
+Rainbow Six Siege,2015,Шутер,999
+Escape from Tarkov,2017,Шутер,1999
+Valorant,2020,Шутер,0
+Team Fortress 2,2007,Шутер,0
+Left 4 Dead 2,2009,Шутер,399
+BioShock Infinite,2013,Шутер,699
+Metro Exodus,2019,Шутер,1499
+Metro 2033 Redux,2014,Шутер,699
+S.T.A.L.K.E.R.: Call of Pripyat,2009,Шутер,499
+Far Cry 5,2018,Шутер,1299
+Far Cry 6,2021,Шутер,1999
+Far Cry 3,2012,Шутер,799
+Borderlands 3,2019,Шутер,1499
+Borderlands 2,2012,Шутер,899
+Titanfall 2,2016,Шутер,1299
+Halo: The Master Chief Collection,2014,Шутер,1999
+Helldivers 2,2024,Шутер,2499
+Destiny 2,2017,Шутер,0
+Sniper Elite 5,2022,Шутер,1999
+Hitman: World of Assassination,2021,Шутер,2499
+PUBG: Battlegrounds,2017,Шутер,999
+Fortnite,2017,Шутер,0
+Grand Theft Auto V,2013,Экшен,1499
+Grand Theft Auto: San Andreas,2004,Экшен,599
+Red Dead Redemption 2,2018,Экшен,2499
+God of War,2018,Экшен,2999
+God of War Ragnarok,2022,Экшен,3999
+Marvel's Spider-Man,2018,Экшен,2999
+Marvel's Spider-Man 2,2023,Экшен,3999
+The Last of Us Part II,2020,Экшен,2999
+The Last of Us Remastered,2014,Экшен,1999
+Uncharted 4: A Thief's End,2016,Экшен,2499
+Assassin's Creed Valhalla,2020,Экшен,2499
+Assassin's Creed Odyssey,2018,Экшен,1999
+Assassin's Creed II,2009,Экшен,999
+Assassin's Creed IV: Black Flag,2013,Экшен,1299
+Assassin's Creed Mirage,2023,Экшен,2499
+Batman: Arkham City,2011,Экшен,799
+Batman: Arkham Knight,2015,Экшен,999
+Metal Gear Solid V: The Phantom Pain,2015,Экшен,1299
+Devil May Cry 5,2019,Экшен,1999
+Ghost of Tsushima,2020,Экшен,2999
+Mafia: Definitive Edition,2020,Экшен,1499
+Watch Dogs 2,2016,Экшен,1299
+Dying Light 2 Stay Human,2022,Экшен,2499
+Dying Light,2015,Экшен,1199
+Dead Island 2,2023,Экшен,2499
+Control,2019,Экшен,1499
+Death Stranding,2019,Экшен,1999
+A Plague Tale: Requiem,2022,Экшен,2499
+Star Wars Jedi: Survivor,2023,Экшен,2999
+Star Wars Jedi: Fallen Order,2019,Экшен,1999
+Horizon Zero Dawn,2017,Экшен,1999
+Horizon Forbidden West,2022,Экшен,3499
+Rise of the Tomb Raider,2015,Экшен,999
+Shadow of the Tomb Raider,2018,Экшен,1299
+Black Myth: Wukong,2024,Экшен,2499
+Civilization VI,2016,Стратегия,1499
+Civilization V,2010,Стратегия,999
+Crusader Kings III,2020,Стратегия,1999
+Europa Universalis IV,2013,Стратегия,1499
+Hearts of Iron IV,2016,Стратегия,1499
+Stellaris,2016,Стратегия,1499
+Total War: Warhammer III,2022,Стратегия,2499
+Total War: Warhammer II,2017,Стратегия,1999
+Total War: Three Kingdoms,2019,Стратегия,1999
+Total War: Rome II,2013,Стратегия,1299
+Total War: Shogun 2,2011,Стратегия,1299
+Age of Empires II: Definitive Edition,2019,Стратегия,1499
+Age of Empires IV,2021,Стратегия,1999
+StarCraft II,2010,Стратегия,999
+Warcraft III: Reforged,2020,Стратегия,1499
+Company of Heroes 2,2013,Стратегия,1199
+Company of Heroes 3,2023,Стратегия,2499
+XCOM 2,2016,Стратегия,1299
+XCOM: Enemy Unknown,2012,Стратегия,999
+Into the Breach,2018,Стратегия,599
+Fire Emblem: Three Houses,2019,Стратегия,2999
+Frostpunk,2018,Стратегия,1299
+Anno 1800,2019,Стратегия,1999
+RimWorld,2018,Стратегия,899
+Heroes of Might and Magic III,1999,Стратегия,499
+Age of Wonders 4,2023,Стратегия,2499
+Manor Lords,2024,Стратегия,1299
+Forza Horizon 5,2021,Гонки,2499
+Forza Horizon 4,2018,Гонки,1999
+Gran Turismo 7,2022,Гонки,3499
+Need for Speed Unbound,2022,Гонки,2999
+Need for Speed: Most Wanted,2005,Гонки,599
+Assetto Corsa,2014,Гонки,899
+Assetto Corsa Competizione,2019,Гонки,1499
+DiRT 5,2020,Гонки,1999
+Wreckfest,2018,Гонки,1299
+F1 23,2023,Гонки,2999
+Mario Kart 8 Deluxe,2017,Гонки,2999
+Hot Wheels Unleashed,2021,Гонки,1499
+GRID Legends,2022,Гонки,1999
+BeamNG.drive,2015,Гонки,1299
+The Sims 4,2014,Симулятор,1499
+Cities: Skylines,2015,Симулятор,1499
+Cities: Skylines II,2023,Симулятор,2499
+Farming Simulator 22,2021,Симулятор,2499
+Microsoft Flight Simulator,2020,Симулятор,2999
+Euro Truck Simulator 2,2012,Симулятор,999
+American Truck Simulator,2016,Симулятор,999
+Bus Simulator 21,2021,Симулятор,1499
+Two Point Hospital,2018,Симулятор,1299
+Two Point Campus,2022,Симулятор,1499
+Planet Coaster,2016,Симулятор,1499
+Jurassic World Evolution 2,2021,Симулятор,1999
+Prison Architect,2015,Симулятор,899
+Kerbal Space Program,2015,Симулятор,1099
+House Flipper,2018,Симулятор,799
+PowerWash Simulator,2021,Симулятор,999
+PC Building Simulator 2,2022,Симулятор,1299
+Football Manager 2024,2023,Симулятор,1999
+Stardew Valley,2016,Симулятор,299
+Train Sim World 4,2023,Симулятор,1999
+EA Sports FC 24,2023,Спорт,2999
+EA Sports FC 25,2024,Спорт,3499
+FIFA 23,2022,Спорт,2999
+NBA 2K24,2023,Спорт,2999
+WWE 2K24,2024,Спорт,2999
+Rocket League,2015,Спорт,0
+PGA Tour 2K23,2023,Спорт,1999
+Tony Hawk's Pro Skater 1+2,2020,Спорт,1999
+Resident Evil 4 Remake,2023,Хоррор,2999
+Resident Evil 2 Remake,2019,Хоррор,1999
+Resident Evil 7: Biohazard,2017,Хоррор,1499
+Resident Evil Village,2021,Хоррор,1999
+Dead Space Remake,2023,Хоррор,2499
+Dead Space 2,2011,Хоррор,799
+Silent Hill 2 Remake,2024,Хоррор,2999
+Outlast,2013,Хоррор,599
+Outlast II,2017,Хоррор,899
+Phasmophobia,2020,Хоррор,599
+Amnesia: The Dark Descent,2010,Хоррор,499
+Amnesia: Rebirth,2020,Хоррор,1099
+Little Nightmares,2017,Хоррор,999
+Little Nightmares II,2021,Хоррор,1499
+Alan Wake 2,2023,Хоррор,2999
+The Callisto Protocol,2022,Хоррор,1999
+Visage,2020,Хоррор,1099
+The Evil Within 2,2017,Хоррор,1299
+Hollow Knight,2017,Инди,499
+Hades,2020,Инди,799
+Hades II,2024,Инди,999
+Celeste,2018,Инди,399
+Undertale,2015,Инди,299
+Terraria,2011,Инди,399
+Cuphead,2017,Инди,699
+Dead Cells,2018,Инди,799
+Slay the Spire,2019,Инди,599
+Balatro,2024,Инди,399
+Vampire Survivors,2022,Инди,299
+Among Us,2018,Инди,149
+Inside,2016,Инди,599
+Limbo,2010,Инди,399
+Transistor,2014,Инди,499
+Outer Wilds,2019,Инди,799
+Return of the Obra Dinn,2018,Инди,599
+Papers Please,2013,Инди,399
+This War of Mine,2014,Инди,699
+Darkest Dungeon,2016,Инди,799
+Darkest Dungeon II,2023,Инди,1299
+Risk of Rain 2,2020,Инди,799
+Noita,2020,Инди,799
+Cult of the Lamb,2022,Инди,799
+Tunic,2022,Инди,699
+Katana ZERO,2019,Инди,499
+Hotline Miami,2012,Инди,299
+Enter the Gungeon,2016,Инди,599
+The Binding of Isaac: Rebirth,2014,Инди,499
+Spelunky 2,2020,Инди,799
+Ori and the Will of the Wisps,2020,Инди,999
+Ori and the Blind Forest,2015,Инди,799
+Firewatch,2016,Инди,599
+What Remains of Edith Finch,2017,Инди,599
+Untitled Goose Game,2019,Инди,499
+Lethal Company,2023,Инди,299
+Valheim,2021,Выживание,799
+Raft,2018,Выживание,599
+Subnautica,2018,Выживание,999
+Don't Starve,2013,Выживание,499
+7 Days to Die,2023,Выживание,1299
+Green Hell,2019,Выживание,999
+The Long Dark,2017,Выживание,799
+Sons of the Forest,2023,Выживание,1499
+ARK: Survival Evolved,2017,Выживание,999
+Rust,2018,Выживание,1499
+The Forest,2018,Выживание,799
+Super Mario Odyssey,2017,Платформер,2999
+Sonic Mania,2017,Платформер,699
+Ratchet & Clank: Rift Apart,2021,Платформер,2999
+Crash Bandicoot 4,2020,Платформер,1999
+Spyro Reignited Trilogy,2018,Платформер,1999
+A Hat in Time,2017,Платформер,699
+Kirby and the Forgotten Land,2022,Платформер,2999
+Donkey Kong Country: Tropical Freeze,2018,Платформер,2999
+Rayman Legends,2013,Платформер,799
+It Takes Two,2021,Платформер,1999
+Fall Guys,2020,Платформер,0
+Sackboy: A Big Adventure,2020,Платформер,2499
+Kena: Bridge of Spirits,2021,Платформер,1999
+Astro Bot,2024,Платформер,3499
+The Walking Dead: Season One,2012,Приключение,699
+Life is Strange,2015,Приключение,799
+Life is Strange: True Colors,2021,Приключение,1499
+Detroit: Become Human,2018,Приключение,1999
+Heavy Rain,2010,Приключение,999
+Beyond: Two Souls,2013,Приключение,999
+Until Dawn,2015,Приключение,1499
+Kentucky Route Zero,2013,Приключение,699
+Oxenfree,2016,Приключение,499
+Night in the Woods,2017,Приключение,699
+The Witness,2016,Приключение,999
+The Secret of Monkey Island,1990,Приключение,299
+Portal 2,2011,Головоломка,599
+Portal,2007,Головоломка,399
+Baba Is You,2019,Головоломка,499
+The Talos Principle,2014,Головоломка,699
+Superliminal,2019,Головоломка,599
+The Room,2012,Головоломка,399
+Tetris Effect: Connected,2020,Головоломка,1499
+League of Legends,2009,MOBA,0
+Dota 2,2013,MOBA,0
+Heroes of the Storm,2015,MOBA,0
+Smite 2,2022,MOBA,0
+World of Warcraft,2004,MMORPG,0
+Final Fantasy XIV,2010,MMORPG,2499
+The Elder Scrolls Online,2014,MMORPG,1499
+Guild Wars 2,2012,MMORPG,0
+Lost Ark,2019,MMORPG,0
+New World,2021,MMORPG,1999
+Minecraft,2011,Песочница,1490
+Garry's Mod,2006,Песочница,299
+Scrap Mechanic,2016,Песочница,799
+Teardown,2022,Песочница,899
+Core Keeper,2024,Песочница,799
+Street Fighter 6,2023,Файтинг,2999
+Mortal Kombat 1,2023,Файтинг,2999
+Tekken 8,2024,Файтинг,2999
+Guilty Gear Strive,2021,Файтинг,1999
+Super Smash Bros. Ultimate,2018,Файтинг,2999
+Dragon Ball FighterZ,2018,Файтинг,1499
+Skullgirls,2013,Файтинг,599
