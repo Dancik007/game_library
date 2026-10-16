@@ -1,13 +1,12 @@
-
 import csv
 import os
 import tkinter as tk
 from tkinter import ttk, messagebox, simpledialog
 
 
-# ==========================================================
+
 # СОБСТВЕННЫЕ ИСКЛЮЧЕНИЯ
-# ==========================================================
+
 class LibraryError(Exception):
     """Базовое исключение библиотеки"""
 
@@ -24,9 +23,9 @@ class GameNotFoundError(LibraryError):
     pass
 
 
-# ==========================================================
+
 # КЛАСС 1: ИГРА
-# ==========================================================
+
 class Game:
     MIN_YEAR = 1980
     MAX_YEAR = 2026
@@ -81,9 +80,7 @@ class Game:
                 "genre": self.genre, "price": self.price}
 
 
-# ==========================================================
 # КЛАСС 2: БИБЛИОТЕКА
-# ==========================================================
 class GameLibrary:
     REQUIRED_COLUMNS = {"title", "year", "genre", "price"}
 
@@ -158,13 +155,12 @@ class GameLibrary:
         return dict(sorted(genres.items(), key=lambda x: -x[1]))
 
 
-# ==========================================================
-# КЛАСС 3: GUI ПРИЛОЖЕНИЕ 
-# ==========================================================
+
+# КЛАСС 3: GUI ПРИЛОЖЕНИЕ
 class GameApp:
     BG = "#0a0a0a"              # Почти черный фон
     FG = "#c084fc"              # Светло-фиолетовый текст
-    ACCENT = "#a855f7"          # Насыщенный фиолетовый (акцент)
+    ACCENT = "#a855f7"          # Насыщенный фиолетовый
     ACCENT_HOVER = "#9333ea"    # Темнее для hover
     ACCENT_PRESSED = "#7e22ce"  # Еще темнее для pressed
     BUTTON_BG = "#1a1a1a"       # Темно-серый фон кнопок
@@ -175,7 +171,7 @@ class GameApp:
 
     def __init__(self, root):
         self.root = root
-        self.root.title("🎮 Библиотека игр")
+        self.root.title("Библиотека игр")
         self.root.geometry("1000x650")
         self.root.configure(bg=self.BG)
         self.root.minsize(800, 500)
@@ -317,7 +313,7 @@ class GameApp:
         total = len(self.current_games)
         all_total = len(self.library.games)
         if title:
-            self.status_var.set(f"📊 {title}  |  Показано: {total} из {all_total}")
+            self.status_var.set(f"{title}  |  Показано: {total} из {all_total}")
         else:
             self.status_var.set(f"Всего игр в базе: {all_total}")
 
@@ -390,7 +386,7 @@ class GameApp:
             self._refresh_table(f"Цена: {p1:.0f}–{p2:.0f}₽")
 
     def add_game(self):
-        dialog = FilterDialog(self.root, "➕ Добавить игру",
+        dialog = FilterDialog(self.root, "Добавить игру",
                               fields=[
                                   ("Название:", "str"),
                                   ("Жанр:", "str"),
@@ -412,9 +408,8 @@ class GameApp:
                 messagebox.showerror("Ошибка", str(e), parent=self.root)
 
 
-# ==========================================================
+
 # ОКНО ДЛЯ ВВОДА ДАННЫХ
-# ==========================================================
 class FilterDialog(tk.Toplevel):
     """Универсальный диалог с полями разного типа"""
 
@@ -498,9 +493,8 @@ class FilterDialog(tk.Toplevel):
         self.destroy()
 
 
-# ==========================================================
+
 # ЗАПУСК
-# ==========================================================
 if __name__ == "__main__":
     root = tk.Tk()
     app = GameApp(root)
